@@ -11,6 +11,7 @@ import java.time.Duration;
 
 public class Valid_entry {
 
+
     @Test
     public void positiveTest(){
         WebDriverManager.chromedriver().setup();
@@ -44,4 +45,5 @@ public class Valid_entry {
         driver.close();
 
     }
+
 }
