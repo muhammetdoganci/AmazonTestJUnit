@@ -42,7 +42,7 @@ public class Valid_entry {
         verification.isDisplayed();
         System.out.println(verification.getText());
 
-        driver.close();
+        //driver.close();
 
     }
 
